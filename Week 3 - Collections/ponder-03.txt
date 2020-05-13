@@ -1,0 +1,50 @@
+# 03 Ponder : Weekly Reflection
+
+1. Describe one challenge your team experienced working on the JSON parsing activity.
+
+The main struggle here was trying to get the loadGame() and saveGame() functions to work right. It took some time but we gotta her done.
+
+2. For the Prove API assignment, what did you learn about how APIs work?
+
+I learned how to connect to a website's API and realized that depending on the website there can be many different endpoints you can connect to in order to retrieve the data that you need.
+
+3. Did you complete the Stretch Challenge for the Prove API Assignment? If so, briefly describe which method you used.
+
+No I ran out of time and did not complete it this week.
+
+
+4. What did you learn from comparing your code to the teacher's solution?
+
+I looked at the stretch challenge to see how I could have accomplished it if I had more time.
+
+
+5. After completing the assignments this week, what questions do you still have?
+
+I don't have any at the moment. :)
+
+
+6. Aside from the task you completed, what is another use you could see for the API we used?
+
+I actually used an API for part of my internship last summer. I worked on automating a workload process by connecting with an API and completing the manual labor using Python and the software's API.
+
+
+7. A common Java interview question is "Describe what an API is and how it's used". (Sometimes people refer to these types of APIs as "REST APIs") How would you answer that question?
+
+An API stands for application program interface. It's how applications talk to each other. You send a request to the API for information and it connects back to your server.
+
+8. Of all of the resources in this week's reading, which was the _most_ helpful to you and why?
+
+I liked the reading on collection interfaces from oracle. It helped me gain a better understanding of the different kind of collections and how they are used.
+
+9. Of all of the resources in this week's reading, which was the _least_ helpful to you and why?
+
+The comparison one was a little hard to follow at first, but it made sense in the end.
+
+10. How many hours did you spend on this class this week?
+
+03 Prepare - 40 mins
+03 Teach - 1 hour
+03 Prove - 6 hours
+03 Ponder - 20 mins
+----------------------------
+Total Hours - 8 hours

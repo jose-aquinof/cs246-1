@@ -1,0 +1,1 @@
+{"name":"Wes","health":5,"mana":10,"gold":10,"equipment":{"Knife":2,"Crossbow":5,"Bomb":10}}

@@ -1,0 +1,49 @@
+# 02 Ponder : Weekly Reflection
+
+1. Describe one challenge your team experienced working on the Vacation Calendar activity.
+
+I communicated with my team throughout the team activity, but what I struggled most on was  getting the tallyExpenses function to work right. I ended up looking at the solution and got it working. It made sense where I went wrong.
+
+
+2. For the Game of Life assignment, what advantages do you see in using interfaces to define creature behaviors, rather than subclasses?
+
+It's really nice to cut back on duplication of code. For example, for all of my creatures I could implement a variety of interfaces, without having to write code out for each of them.
+
+
+3. Did you complete the Stretch Challenge for the Game of Life Assignment? If so, briefly describe what you did, and how you structured your code.
+
+Yes I did. I took the suggestion from the prove assignment and created a zombie eating plant. It implemented attackable and moveable. It wasn't super complex, but gave me another great chance at using interfaces.
+
+
+4. What did you learn from comparing your code to the teacher's solution?
+
+I learned more about my error that I faced at the end of the prove. I had trouble implementing my code with creatureHandling, but I was able to get some friendly tips and got it working. I then compared it with the example from the teacher, which helped a lot.
+
+5. After completing the assignments this week, what questions do you still have?
+
+One of my issues that I had was I was using a list instead of an array list for my new creatures. It was returning a null exception error. My question is: why did the array list work in this case and not the normal list?
+
+6. If you were getting paid to work on this week's Prove assignment and you had another month to work on it, what would you add?
+
+I would love add more creatures to the game with unique interfaces. I found this programming assignment to be quite fun, so I'd love to just let my imagination run wild and create all sorts of cool things.
+
+7. A common Java interview question is "describe the difference between an interface and an abstract class". How would you answer that question?
+
+An interface only allows you to state functionality. You don't implement or build out code here. An abstract class on the other hand allows subclasses to implement and override the abstract class.
+
+8. Of all of the resources in this week's Preparation assignment, which was the _most_ helpful to you and why?
+
+I liked the video describing interfaces. It was short and simple which allowed me to grasp at least a basic concept of what an interface is.
+
+9. Of all of the resources in this week's Preparation assignment, which was the _least_ helpful to you and why?
+
+I loved all the resources this week. I found all of them to be super helpful in learning more about interfaces. The stack over flow posts really helped cement more for me the concept of interfaces. So in short, I liked them all!
+
+10. How many hours did you spend on this class this week?
+
+02 Prepare - 1
+02 Teach - 2
+02 Prove - 5.5
+02 Ponder - 20 mins
+----------------------------
+Total Hours - about 9 hours
