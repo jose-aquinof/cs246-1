@@ -1,3 +1,4 @@
 //This file is a test learning how to work with Git.
+//Editing the file in my text editor to learn how to use git merge.
 
 Hey Wes!
